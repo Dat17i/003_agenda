@@ -5,6 +5,7 @@ ThymeLeaf View Engine, Script Language
 _**TODO: Literature about ThymeLeaf**_
 * []()
 ## Exercise
-* [The Thymeleaf Interactive Tutorial](http://itutorial.thymeleaf.org/)
+* [The Thymeleaf Interactive Tutorial](http://itutorial.thymeleaf.org/)    
+
 _**TODO: Select specific exercises ThymeLeaf**_
 

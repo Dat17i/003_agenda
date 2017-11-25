@@ -1,4 +1,4 @@
-# #5 Create a List of Students
+# #5 Create a Web Page with a List of Students
 ## What we will cover today
 The Job today is to create this index page
 

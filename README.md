@@ -19,7 +19,7 @@ This will be equevalent to what I show you in class.
 _**TODO: Literature about ThymeLeaf**_
 
 ## Exercises
-* [Create a Course List page](https://github.com/StudentsAdministration/06_exercise_create_courses/blob/master/README.md)
+* [Create a Course List page](https://github.com/StudentsAdministration/05_exercise_create_courses/blob/master/README.md)
 * [The Thymeleaf Interactive Tutorial](http://itutorial.thymeleaf.org/)    
 
 _**TODO: Select specific exercises ThymeLeaf**_

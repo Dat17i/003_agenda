@@ -14,7 +14,7 @@ This will involve:
 
 ## Literature
 This will be equevalent to what I show you in class.
-* [Creating a Students list page](https://github.com/StudentsAdministration/06_tutorial_students_list)    
+* [Creating a Students list page](https://github.com/StudentsAdministration/05_tutorial_students_list)    
 
 _**TODO: Literature about ThymeLeaf**_
 

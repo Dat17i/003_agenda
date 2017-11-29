@@ -15,7 +15,7 @@ This will involve:
 ## Literature
 This will be equevalent to what I show you in class.
 * [Creating a Students list page](https://github.com/StudentsAdministration/05_tutorial_students_list)    
-
+* [Model documentation](https://docs.spring.io/spring/docs/current/javadoc-api/org/springframework/ui/Model.html)
 _**TODO: Literature about ThymeLeaf**_
 
 ## Exercises

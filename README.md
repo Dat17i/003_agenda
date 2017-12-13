@@ -25,3 +25,5 @@ _**TODO: Literature about ThymeLeaf**_
 _**TODO: Select specific exercises ThymeLeaf**_
 
 
+
+_<div align="right">&copy; clbo@kea.dk</div>_

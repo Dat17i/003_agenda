@@ -16,14 +16,9 @@ This will involve:
 This will be equevalent to what I show you in class.
 * [Creating a Students list page](https://github.com/StudentsAdministration/05_tutorial_students_list)    
 * [Model documentation](https://docs.spring.io/spring/docs/current/javadoc-api/org/springframework/ui/Model.html)
-_**TODO: Literature about ThymeLeaf**_
 
 ## Exercises
 * [Create a Course List page](https://github.com/StudentsAdministration/05_exercise_create_courses/blob/master/README.md)
 * [The Thymeleaf Interactive Tutorial](http://itutorial.thymeleaf.org/)    
-
-_**TODO: Select specific exercises ThymeLeaf**_
-
-
 
 _<div align="right">&copy; clbo@kea.dk</div>_
